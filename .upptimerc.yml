@@ -1,7 +1,7 @@
 # Change these first
 owner: bozz2022 # Your GitHub organization or username, where this repository lives
 repo: status.153100.xyz  # The name of this repository
-
+user-agent: bozz2022
 sites:
   - name: main
     url: https://153100.xyz
