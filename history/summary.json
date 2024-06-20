@@ -4,19 +4,19 @@
     "url": "https://153100.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/153100.xyz.ico",
     "slug": "main",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 130,
-    "timeDay": 91,
-    "timeWeek": 118,
-    "timeMonth": 135,
+    "timeDay": 136,
+    "timeWeek": 130,
+    "timeMonth": 138,
     "timeYear": 130,
     "dailyMinutesDown": {
-      "2024-06-20": 0
+      "2024-06-20": 9
     }
   }
 ]
